@@ -1,6 +1,7 @@
                                           ** This is my College Final Year Project. **
+                                                 MowBotic (Automated Lawn Mower)
 
-MowBotic (Automated Lawn Mower)
+Description
 
 • User-Friendly device to tidy up the garden. A mower that is portable, durable, and easy to operate and maintain.
 
