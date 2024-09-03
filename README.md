@@ -1,4 +1,4 @@
-                                          ** This is my College Final Year Project. **
+                                             This is my College Final Year Project.
                                                  MowBotic (Automated Lawn Mower)
 
 DESCRIPTION:
