@@ -3,7 +3,9 @@
 MowBotic (Automated Lawn Mower)
 
 • User-Friendly device to tidy up the garden. A mower that is portable, durable, and easy to operate and maintain.
+
 • It also aims to design a self-powered mower with an electrical source; a cordless electric lawn mower.
+
 • Ability to mow larger areas without waiting for a battery to charge.
 
 Motivation:
