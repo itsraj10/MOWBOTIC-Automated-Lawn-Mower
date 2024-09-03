@@ -15,7 +15,7 @@ There are about 70 million households in the US living in the suburban area. The
 
 INSPIRATION:
 
-The inspiration for this project came from wanting to innovate on the idea of a Roomba, by applying its technology to a different application. It is to create an autonomous lawn mower that meets the needs of modern standards. The design will focus on minimizing the time and money spent on lawn mowing
+The inspiration for this project came from wanting to innovate on the idea of a Roomba, by applying its technology to a different application. It is to create an autonomous lawn mower that meets the needs of modern standards. The design will focus on minimizing the time and money spent on lawn mowing.
 
 
 
