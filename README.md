@@ -11,10 +11,12 @@ ________________________________________________________________________________
 • Ability to mow larger areas without waiting for a battery to charge.
 
 
+
 MOTIVATION:
 ____________________________________________________________________________________________________________________________
 
 There are about 70 million households in the US living in the suburban area. They need to mow their lawns biweekly, weekly or monthly. The average lawn mowing time is 1-2 hours or the cost is $20-$50 if you are hiring someone to do it for you. By automating this task, it allows individuals to better spend their time and allow the automated lawn mower to take over this mundane task.
+
 
 
 INSPIRATION:
